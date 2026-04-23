@@ -1,0 +1,4 @@
+---
+collections:
+  - name: companieshouse.infrastructure
+    version: 1.0.0
